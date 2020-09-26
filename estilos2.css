@@ -100,8 +100,8 @@ nav ul li a{
  transform:translate(-13%,-42%);
 }
 .hire-btn{
- border:2px solid #373636;
- color:#373636;
+ border:2px solid #ffffff;
+ color:#ffffff;
  background-color:transparent;
  transition: all 0.5s;
 }
