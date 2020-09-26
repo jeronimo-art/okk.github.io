@@ -8,6 +8,26 @@ body{
 ul{
  list-style:none;
 }
+
+
+
+#modo{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 2px;
+    color: rgb(0, 0, 0);
+    transition: all 0.5s;
+}
+
+#modo:hover{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 2px;
+    background: #000;
+    color: #fff;
+    transition: all 0.5s;
+}
+
 a{
  text-decoration:none;
 }
